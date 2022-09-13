@@ -38,9 +38,9 @@ public class App {
     // 4. Display the Linked list.
     System.out.println(studentnumber);
     // 5. Display the last character of the Linked list.
-    System.out.println(studentnumber.get(6));
+    System.out.println(studentnumber.get(7));
     // 6. Replace the last character of the Linked list with the exclamation symbol (!).
-    studentnumber.set(6, "!");
+    studentnumber.set(7, "!");
     // 7. Remove the first character of the Linked list.
     studentnumber.remove(0);
     // 8. Display the LinkedList.
@@ -95,4 +95,5 @@ public class App {
     }
 
     }
+
 
